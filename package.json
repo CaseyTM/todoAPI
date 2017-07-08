@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-validator": "^3.2.0",
+    "mongoose": "^4.11.1",
+    "morgan": "^1.8.2",
+    "path": "^0.12.7",
+    "pg": "^6.4.0"
+  }
+}
